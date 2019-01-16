@@ -1,0 +1,11 @@
+C:\Users\thoule\source\repos\PubSub\PubSub\obj\Debug\netcoreapp2.2\PubSub.csprojAssemblyReference.cache
+C:\Users\thoule\source\repos\PubSub\PubSub\obj\Debug\netcoreapp2.2\PubSub.csproj.CoreCompileInputs.cache
+C:\Users\thoule\source\repos\PubSub\PubSub\obj\Debug\netcoreapp2.2\PubSub.AssemblyInfoInputs.cache
+C:\Users\thoule\source\repos\PubSub\PubSub\obj\Debug\netcoreapp2.2\PubSub.AssemblyInfo.cs
+C:\Users\thoule\source\repos\PubSub\PubSub\bin\Debug\netcoreapp2.2\PubSub.deps.json
+C:\Users\thoule\source\repos\PubSub\PubSub\bin\Debug\netcoreapp2.2\PubSub.runtimeconfig.json
+C:\Users\thoule\source\repos\PubSub\PubSub\bin\Debug\netcoreapp2.2\PubSub.runtimeconfig.dev.json
+C:\Users\thoule\source\repos\PubSub\PubSub\bin\Debug\netcoreapp2.2\PubSub.dll
+C:\Users\thoule\source\repos\PubSub\PubSub\bin\Debug\netcoreapp2.2\PubSub.pdb
+C:\Users\thoule\source\repos\PubSub\PubSub\obj\Debug\netcoreapp2.2\PubSub.dll
+C:\Users\thoule\source\repos\PubSub\PubSub\obj\Debug\netcoreapp2.2\PubSub.pdb
