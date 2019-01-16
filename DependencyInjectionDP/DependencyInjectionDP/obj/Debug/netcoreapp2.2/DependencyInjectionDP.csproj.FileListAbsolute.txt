@@ -1,0 +1,11 @@
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\bin\Debug\netcoreapp2.2\DependencyInjectionDP.deps.json
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\bin\Debug\netcoreapp2.2\DependencyInjectionDP.runtimeconfig.json
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\bin\Debug\netcoreapp2.2\DependencyInjectionDP.runtimeconfig.dev.json
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\bin\Debug\netcoreapp2.2\DependencyInjectionDP.dll
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\bin\Debug\netcoreapp2.2\DependencyInjectionDP.pdb
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\obj\Debug\netcoreapp2.2\DependencyInjectionDP.csprojAssemblyReference.cache
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\obj\Debug\netcoreapp2.2\DependencyInjectionDP.csproj.CoreCompileInputs.cache
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\obj\Debug\netcoreapp2.2\DependencyInjectionDP.AssemblyInfoInputs.cache
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\obj\Debug\netcoreapp2.2\DependencyInjectionDP.AssemblyInfo.cs
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\obj\Debug\netcoreapp2.2\DependencyInjectionDP.dll
+C:\Users\thoule\source\repos\DependencyInjectionDP\DependencyInjectionDP\obj\Debug\netcoreapp2.2\DependencyInjectionDP.pdb
