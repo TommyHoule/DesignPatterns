@@ -1,0 +1,11 @@
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\bin\Debug\netcoreapp2.2\StrategyDP.deps.json
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\bin\Debug\netcoreapp2.2\StrategyDP.runtimeconfig.json
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\bin\Debug\netcoreapp2.2\StrategyDP.runtimeconfig.dev.json
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\bin\Debug\netcoreapp2.2\StrategyDP.dll
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\bin\Debug\netcoreapp2.2\StrategyDP.pdb
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\obj\Debug\netcoreapp2.2\StrategyDP.csprojAssemblyReference.cache
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\obj\Debug\netcoreapp2.2\StrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\obj\Debug\netcoreapp2.2\StrategyDP.AssemblyInfoInputs.cache
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\obj\Debug\netcoreapp2.2\StrategyDP.AssemblyInfo.cs
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\obj\Debug\netcoreapp2.2\StrategyDP.dll
+C:\Users\thoule\source\repos\StrategyDP\StrategyDP\obj\Debug\netcoreapp2.2\StrategyDP.pdb
